@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd hello_world
+git show 2ab9562c87067b79a83263397e7a8f88a3423a6c
+echo "================"
+echo "The flag is above :D"

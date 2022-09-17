@@ -1,0 +1,1359 @@
+  9           0 LOAD_CONST               1 (2)
+              2 LOAD_FAST                0 (inp)
+              4 LOAD_CONST               2 (33)
+              6 BINARY_SUBSCR
+              8 BINARY_MULTIPLY
+             10 LOAD_CONST               3 (1)
+             12 LOAD_FAST                0 (inp)
+             14 LOAD_CONST               4 (17)
+             16 BINARY_SUBSCR
+             18 BINARY_MULTIPLY
+             20 BINARY_ADD
+             22 LOAD_CONST               1 (2)
+             24 LOAD_FAST                0 (inp)
+             26 LOAD_CONST               5 (20)
+             28 BINARY_SUBSCR
+             30 BINARY_MULTIPLY
+             32 BINARY_SUBTRACT
+             34 LOAD_CONST               3 (1)
+             36 LOAD_FAST                0 (inp)
+             38 LOAD_CONST               6 (26)
+             40 BINARY_SUBSCR
+             42 BINARY_MULTIPLY
+             44 BINARY_SUBTRACT
+             46 LOAD_CONST               7 (4)
+             48 LOAD_FAST                0 (inp)
+             50 LOAD_CONST               8 (29)
+             52 BINARY_SUBSCR
+             54 BINARY_MULTIPLY
+             56 BINARY_ADD
+             58 LOAD_CONST               9 (-29)
+             60 COMPARE_OP               2 (==)
+             62 EXTENDED_ARG             5
+             64 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 10          66 LOAD_CONST              10 (3)
+             68 LOAD_FAST                0 (inp)
+             70 LOAD_CONST               7 (4)
+             72 BINARY_SUBSCR
+             74 BINARY_MULTIPLY
+             76 LOAD_CONST              10 (3)
+             78 LOAD_FAST                0 (inp)
+             80 LOAD_CONST              11 (28)
+             82 BINARY_SUBSCR
+             84 BINARY_MULTIPLY
+             86 BINARY_SUBTRACT
+             88 LOAD_CONST               3 (1)
+             90 LOAD_FAST                0 (inp)
+             92 LOAD_CONST              12 (27)
+             94 BINARY_SUBSCR
+             96 BINARY_MULTIPLY
+             98 BINARY_ADD
+            100 LOAD_CONST               7 (4)
+            102 LOAD_FAST                0 (inp)
+            104 LOAD_CONST               6 (26)
+            106 BINARY_SUBSCR
+            108 BINARY_MULTIPLY
+            110 BINARY_SUBTRACT
+            112 LOAD_CONST               3 (1)
+            114 LOAD_FAST                0 (inp)
+            116 LOAD_CONST              13 (23)
+            118 BINARY_SUBSCR
+            120 BINARY_MULTIPLY
+            122 BINARY_SUBTRACT
+            124 LOAD_CONST              14 (-1029)
+            126 COMPARE_OP               2 (==)
+            128 EXTENDED_ARG             5
+            130 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 11         132 LOAD_CONST              10 (3)
+            134 LOAD_FAST                0 (inp)
+            136 LOAD_CONST               7 (4)
+            138 BINARY_SUBSCR
+            140 BINARY_MULTIPLY
+            142 LOAD_CONST               7 (4)
+            144 LOAD_FAST                0 (inp)
+            146 LOAD_CONST              15 (25)
+            148 BINARY_SUBSCR
+            150 BINARY_MULTIPLY
+            152 BINARY_ADD
+            154 LOAD_CONST               3 (1)
+            156 LOAD_FAST                0 (inp)
+            158 LOAD_CONST              16 (30)
+            160 BINARY_SUBSCR
+            162 BINARY_MULTIPLY
+            164 BINARY_SUBTRACT
+            166 LOAD_CONST               7 (4)
+            168 LOAD_FAST                0 (inp)
+            170 LOAD_CONST              17 (13)
+            172 BINARY_SUBSCR
+            174 BINARY_MULTIPLY
+            176 BINARY_SUBTRACT
+            178 LOAD_CONST               1 (2)
+            180 LOAD_FAST                0 (inp)
+            182 LOAD_CONST              10 (3)
+            184 BINARY_SUBSCR
+            186 BINARY_MULTIPLY
+            188 BINARY_SUBTRACT
+            190 LOAD_CONST              18 (80)
+            192 COMPARE_OP               2 (==)
+            194 EXTENDED_ARG             5
+            196 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 12         198 LOAD_CONST               1 (2)
+            200 LOAD_FAST                0 (inp)
+            202 LOAD_CONST               1 (2)
+            204 BINARY_SUBSCR
+            206 BINARY_MULTIPLY
+            208 LOAD_CONST               1 (2)
+            210 LOAD_FAST                0 (inp)
+            212 LOAD_CONST              16 (30)
+            214 BINARY_SUBSCR
+            216 BINARY_MULTIPLY
+            218 BINARY_SUBTRACT
+            220 LOAD_CONST               3 (1)
+            222 LOAD_FAST                0 (inp)
+            224 LOAD_CONST              19 (39)
+            226 BINARY_SUBSCR
+            228 BINARY_MULTIPLY
+            230 BINARY_ADD
+            232 LOAD_CONST               3 (1)
+            234 LOAD_FAST                0 (inp)
+            236 LOAD_CONST              20 (21)
+            238 BINARY_SUBSCR
+            240 BINARY_MULTIPLY
+            242 BINARY_SUBTRACT
+            244 LOAD_CONST              10 (3)
+            246 LOAD_FAST                0 (inp)
+            248 LOAD_CONST               3 (1)
+            250 BINARY_SUBSCR
+            252 BINARY_MULTIPLY
+            254 BINARY_ADD
+            256 LOAD_CONST              21 (548)
+            258 COMPARE_OP               2 (==)
+            260 EXTENDED_ARG             5
+            262 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 13         264 LOAD_CONST               7 (4)
+            266 LOAD_FAST                0 (inp)
+            268 LOAD_CONST              22 (6)
+            270 BINARY_SUBSCR
+            272 BINARY_MULTIPLY
+            274 LOAD_CONST               3 (1)
+            276 LOAD_FAST                0 (inp)
+            278 LOAD_CONST              23 (11)
+            280 BINARY_SUBSCR
+            282 BINARY_MULTIPLY
+            284 BINARY_SUBTRACT
+            286 LOAD_CONST               3 (1)
+            288 LOAD_FAST                0 (inp)
+            290 LOAD_CONST              24 (38)
+            292 BINARY_SUBSCR
+            294 BINARY_MULTIPLY
+            296 BINARY_ADD
+            298 LOAD_CONST               1 (2)
+            300 LOAD_FAST                0 (inp)
+            302 LOAD_CONST              25 (24)
+            304 BINARY_SUBSCR
+            306 BINARY_MULTIPLY
+            308 BINARY_ADD
+            310 LOAD_CONST               3 (1)
+            312 LOAD_FAST                0 (inp)
+            314 LOAD_CONST              11 (28)
+            316 BINARY_SUBSCR
+            318 BINARY_MULTIPLY
+            320 BINARY_ADD
+            322 LOAD_CONST              26 (751)
+            324 COMPARE_OP               2 (==)
+            326 EXTENDED_ARG             5
+            328 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 14         330 LOAD_CONST               7 (4)
+            332 LOAD_FAST                0 (inp)
+            334 LOAD_CONST              27 (8)
+            336 BINARY_SUBSCR
+            338 BINARY_MULTIPLY
+            340 LOAD_CONST              10 (3)
+            342 LOAD_FAST                0 (inp)
+            344 LOAD_CONST              28 (0)
+            346 BINARY_SUBSCR
+            348 BINARY_MULTIPLY
+            350 BINARY_SUBTRACT
+            352 LOAD_CONST               1 (2)
+            354 LOAD_FAST                0 (inp)
+            356 LOAD_CONST              29 (9)
+            358 BINARY_SUBSCR
+            360 BINARY_MULTIPLY
+            362 BINARY_SUBTRACT
+            364 LOAD_CONST              10 (3)
+            366 LOAD_FAST                0 (inp)
+            368 LOAD_CONST              30 (37)
+            370 BINARY_SUBSCR
+            372 BINARY_MULTIPLY
+            374 BINARY_ADD
+            376 LOAD_CONST               7 (4)
+            378 LOAD_FAST                0 (inp)
+            380 LOAD_CONST              31 (34)
+            382 BINARY_SUBSCR
+            384 BINARY_MULTIPLY
+            386 BINARY_ADD
+            388 LOAD_CONST              32 (1939)
+            390 COMPARE_OP               2 (==)
+            392 EXTENDED_ARG             5
+            394 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 15         396 LOAD_CONST               1 (2)
+            398 LOAD_FAST                0 (inp)
+            400 LOAD_CONST              33 (18)
+            402 BINARY_SUBSCR
+            404 BINARY_MULTIPLY
+            406 LOAD_CONST               7 (4)
+            408 LOAD_FAST                0 (inp)
+            410 LOAD_CONST              34 (12)
+            412 BINARY_SUBSCR
+            414 BINARY_MULTIPLY
+            416 BINARY_SUBTRACT
+            418 LOAD_CONST               3 (1)
+            420 LOAD_FAST                0 (inp)
+            422 LOAD_CONST              35 (7)
+            424 BINARY_SUBSCR
+            426 BINARY_MULTIPLY
+            428 BINARY_ADD
+            430 LOAD_CONST              10 (3)
+            432 LOAD_FAST                0 (inp)
+            434 LOAD_CONST              29 (9)
+            436 BINARY_SUBSCR
+            438 BINARY_MULTIPLY
+            440 BINARY_SUBTRACT
+            442 LOAD_CONST               7 (4)
+            444 LOAD_FAST                0 (inp)
+            446 LOAD_CONST              23 (11)
+            448 BINARY_SUBSCR
+            450 BINARY_MULTIPLY
+            452 BINARY_SUBTRACT
+            454 LOAD_CONST              36 (-46)
+            456 COMPARE_OP               2 (==)
+            458 EXTENDED_ARG             5
+            460 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 16         462 LOAD_CONST              10 (3)
+            464 LOAD_FAST                0 (inp)
+            466 LOAD_CONST              20 (21)
+            468 BINARY_SUBSCR
+            470 BINARY_MULTIPLY
+            472 LOAD_CONST               7 (4)
+            474 LOAD_FAST                0 (inp)
+            476 LOAD_CONST               6 (26)
+            478 BINARY_SUBSCR
+            480 BINARY_MULTIPLY
+            482 BINARY_ADD
+            484 LOAD_CONST               7 (4)
+            486 LOAD_FAST                0 (inp)
+            488 LOAD_CONST               1 (2)
+            490 BINARY_SUBSCR
+            492 BINARY_MULTIPLY
+            494 BINARY_SUBTRACT
+            496 LOAD_CONST               1 (2)
+            498 LOAD_FAST                0 (inp)
+            500 LOAD_CONST              37 (22)
+            502 BINARY_SUBSCR
+            504 BINARY_MULTIPLY
+            506 BINARY_ADD
+            508 LOAD_CONST               1 (2)
+            510 LOAD_FAST                0 (inp)
+            512 LOAD_CONST              28 (0)
+            514 BINARY_SUBSCR
+            516 BINARY_MULTIPLY
+            518 BINARY_SUBTRACT
+            520 LOAD_CONST              38 (685)
+            522 COMPARE_OP               2 (==)
+            524 EXTENDED_ARG             5
+            526 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 17         528 LOAD_CONST               7 (4)
+            530 LOAD_FAST                0 (inp)
+            532 LOAD_CONST              13 (23)
+            534 BINARY_SUBSCR
+            536 BINARY_MULTIPLY
+            538 LOAD_CONST              10 (3)
+            540 LOAD_FAST                0 (inp)
+            542 LOAD_CONST               3 (1)
+            544 BINARY_SUBSCR
+            546 BINARY_MULTIPLY
+            548 BINARY_ADD
+            550 LOAD_CONST               1 (2)
+            552 LOAD_FAST                0 (inp)
+            554 LOAD_CONST               5 (20)
+            556 BINARY_SUBSCR
+            558 BINARY_MULTIPLY
+            560 BINARY_ADD
+            562 LOAD_CONST               3 (1)
+            564 LOAD_FAST                0 (inp)
+            566 LOAD_CONST              39 (16)
+            568 BINARY_SUBSCR
+            570 BINARY_MULTIPLY
+            572 BINARY_SUBTRACT
+            574 LOAD_CONST               1 (2)
+            576 LOAD_FAST                0 (inp)
+            578 LOAD_CONST              15 (25)
+            580 BINARY_SUBSCR
+            582 BINARY_MULTIPLY
+            584 BINARY_SUBTRACT
+            586 LOAD_CONST              40 (1007)
+            588 COMPARE_OP               2 (==)
+            590 EXTENDED_ARG             5
+            592 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 18         594 LOAD_CONST               3 (1)
+            596 LOAD_FAST                0 (inp)
+            598 LOAD_CONST              28 (0)
+            600 BINARY_SUBSCR
+            602 BINARY_MULTIPLY
+            604 LOAD_CONST              10 (3)
+            606 LOAD_FAST                0 (inp)
+            608 LOAD_CONST               1 (2)
+            610 BINARY_SUBSCR
+            612 BINARY_MULTIPLY
+            614 BINARY_ADD
+            616 LOAD_CONST               1 (2)
+            618 LOAD_FAST                0 (inp)
+            620 LOAD_CONST              41 (36)
+            622 BINARY_SUBSCR
+            624 BINARY_MULTIPLY
+            626 BINARY_ADD
+            628 LOAD_CONST              10 (3)
+            630 LOAD_FAST                0 (inp)
+            632 LOAD_CONST              42 (14)
+            634 BINARY_SUBSCR
+            636 BINARY_MULTIPLY
+            638 BINARY_SUBTRACT
+            640 LOAD_CONST               1 (2)
+            642 LOAD_FAST                0 (inp)
+            644 LOAD_CONST              25 (24)
+            646 BINARY_SUBSCR
+            648 BINARY_MULTIPLY
+            650 BINARY_ADD
+            652 LOAD_CONST              43 (350)
+            654 COMPARE_OP               2 (==)
+            656 EXTENDED_ARG             5
+            658 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 19         660 LOAD_CONST               1 (2)
+            662 LOAD_FAST                0 (inp)
+            664 LOAD_CONST              37 (22)
+            666 BINARY_SUBSCR
+            668 BINARY_MULTIPLY
+            670 LOAD_CONST               1 (2)
+            672 LOAD_FAST                0 (inp)
+            674 LOAD_CONST              44 (10)
+            676 BINARY_SUBSCR
+            678 BINARY_MULTIPLY
+            680 BINARY_ADD
+            682 LOAD_CONST              10 (3)
+            684 LOAD_FAST                0 (inp)
+            686 LOAD_CONST              45 (19)
+            688 BINARY_SUBSCR
+            690 BINARY_MULTIPLY
+            692 BINARY_ADD
+            694 LOAD_CONST              10 (3)
+            696 LOAD_FAST                0 (inp)
+            698 LOAD_CONST              27 (8)
+            700 BINARY_SUBSCR
+            702 BINARY_MULTIPLY
+            704 BINARY_SUBTRACT
+            706 LOAD_CONST               7 (4)
+            708 LOAD_FAST                0 (inp)
+            710 LOAD_CONST              28 (0)
+            712 BINARY_SUBSCR
+            714 BINARY_MULTIPLY
+            716 BINARY_ADD
+            718 LOAD_CONST              46 (686)
+            720 COMPARE_OP               2 (==)
+            722 EXTENDED_ARG             5
+            724 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 20         726 LOAD_CONST               3 (1)
+            728 LOAD_FAST                0 (inp)
+            730 LOAD_CONST              47 (5)
+            732 BINARY_SUBSCR
+            734 BINARY_MULTIPLY
+            736 LOAD_CONST               3 (1)
+            738 LOAD_FAST                0 (inp)
+            740 LOAD_CONST              12 (27)
+            742 BINARY_SUBSCR
+            744 BINARY_MULTIPLY
+            746 BINARY_SUBTRACT
+            748 LOAD_CONST              10 (3)
+            750 LOAD_FAST                0 (inp)
+            752 LOAD_CONST              28 (0)
+            754 BINARY_SUBSCR
+            756 BINARY_MULTIPLY
+            758 BINARY_ADD
+            760 LOAD_CONST               7 (4)
+            762 LOAD_FAST                0 (inp)
+            764 LOAD_CONST              15 (25)
+            766 BINARY_SUBSCR
+            768 BINARY_MULTIPLY
+            770 BINARY_SUBTRACT
+            772 LOAD_CONST               7 (4)
+            774 LOAD_FAST                0 (inp)
+            776 LOAD_CONST              41 (36)
+            778 BINARY_SUBSCR
+            780 BINARY_MULTIPLY
+            782 BINARY_SUBTRACT
+            784 LOAD_CONST              48 (-667)
+            786 COMPARE_OP               2 (==)
+            788 EXTENDED_ARG             5
+            790 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 21         792 LOAD_CONST               3 (1)
+            794 LOAD_FAST                0 (inp)
+            796 LOAD_CONST              12 (27)
+            798 BINARY_SUBSCR
+            800 BINARY_MULTIPLY
+            802 LOAD_CONST               3 (1)
+            804 LOAD_FAST                0 (inp)
+            806 LOAD_CONST              27 (8)
+            808 BINARY_SUBSCR
+            810 BINARY_MULTIPLY
+            812 BINARY_ADD
+            814 LOAD_CONST               3 (1)
+            816 LOAD_FAST                0 (inp)
+            818 LOAD_CONST              15 (25)
+            820 BINARY_SUBSCR
+            822 BINARY_MULTIPLY
+            824 BINARY_ADD
+            826 LOAD_CONST               3 (1)
+            828 LOAD_FAST                0 (inp)
+            830 LOAD_CONST              31 (34)
+            832 BINARY_SUBSCR
+            834 BINARY_MULTIPLY
+            836 BINARY_ADD
+            838 LOAD_CONST               3 (1)
+            840 LOAD_FAST                0 (inp)
+            842 LOAD_CONST              25 (24)
+            844 BINARY_SUBSCR
+            846 BINARY_MULTIPLY
+            848 BINARY_ADD
+            850 LOAD_CONST              49 (793)
+            852 COMPARE_OP               2 (==)
+            854 EXTENDED_ARG             5
+            856 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 22         858 LOAD_CONST               7 (4)
+            860 LOAD_FAST                0 (inp)
+            862 LOAD_CONST              33 (18)
+            864 BINARY_SUBSCR
+            866 BINARY_MULTIPLY
+            868 LOAD_CONST               3 (1)
+            870 LOAD_FAST                0 (inp)
+            872 LOAD_CONST              12 (27)
+            874 BINARY_SUBSCR
+            876 BINARY_MULTIPLY
+            878 BINARY_SUBTRACT
+            880 LOAD_CONST               3 (1)
+            882 LOAD_FAST                0 (inp)
+            884 LOAD_CONST              39 (16)
+            886 BINARY_SUBSCR
+            888 BINARY_MULTIPLY
+            890 BINARY_SUBTRACT
+            892 LOAD_CONST               7 (4)
+            894 LOAD_FAST                0 (inp)
+            896 LOAD_CONST              19 (39)
+            898 BINARY_SUBSCR
+            900 BINARY_MULTIPLY
+            902 BINARY_SUBTRACT
+            904 LOAD_CONST               1 (2)
+            906 LOAD_FAST                0 (inp)
+            908 LOAD_CONST              47 (5)
+            910 BINARY_SUBSCR
+            912 BINARY_MULTIPLY
+            914 BINARY_ADD
+            916 LOAD_CONST              50 (-1012)
+            918 COMPARE_OP               2 (==)
+            920 EXTENDED_ARG             5
+            922 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 23         924 LOAD_CONST              10 (3)
+            926 LOAD_FAST                0 (inp)
+            928 LOAD_CONST               1 (2)
+            930 BINARY_SUBSCR
+            932 BINARY_MULTIPLY
+            934 LOAD_CONST              10 (3)
+            936 LOAD_FAST                0 (inp)
+            938 LOAD_CONST               5 (20)
+            940 BINARY_SUBSCR
+            942 BINARY_MULTIPLY
+            944 BINARY_SUBTRACT
+            946 LOAD_CONST               1 (2)
+            948 LOAD_FAST                0 (inp)
+            950 LOAD_CONST              27 (8)
+            952 BINARY_SUBSCR
+            954 BINARY_MULTIPLY
+            956 BINARY_ADD
+            958 LOAD_CONST               7 (4)
+            960 LOAD_FAST                0 (inp)
+            962 LOAD_CONST              47 (5)
+            964 BINARY_SUBSCR
+            966 BINARY_MULTIPLY
+            968 BINARY_SUBTRACT
+            970 LOAD_CONST               3 (1)
+            972 LOAD_FAST                0 (inp)
+            974 LOAD_CONST               2 (33)
+            976 BINARY_SUBSCR
+            978 BINARY_MULTIPLY
+            980 BINARY_SUBTRACT
+            982 LOAD_CONST              51 (714)
+            984 COMPARE_OP               2 (==)
+            986 EXTENDED_ARG             5
+            988 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 24         990 LOAD_CONST               1 (2)
+            992 LOAD_FAST                0 (inp)
+            994 LOAD_CONST              35 (7)
+            996 BINARY_SUBSCR
+            998 BINARY_MULTIPLY
+           1000 LOAD_CONST              10 (3)
+           1002 LOAD_FAST                0 (inp)
+           1004 LOAD_CONST              31 (34)
+           1006 BINARY_SUBSCR
+           1008 BINARY_MULTIPLY
+           1010 BINARY_SUBTRACT
+           1012 LOAD_CONST               3 (1)
+           1014 LOAD_FAST                0 (inp)
+           1016 LOAD_CONST              30 (37)
+           1018 BINARY_SUBSCR
+           1020 BINARY_MULTIPLY
+           1022 BINARY_ADD
+           1024 LOAD_CONST               1 (2)
+           1026 LOAD_FAST                0 (inp)
+           1028 LOAD_CONST              52 (35)
+           1030 BINARY_SUBSCR
+           1032 BINARY_MULTIPLY
+           1034 BINARY_ADD
+           1036 LOAD_CONST               7 (4)
+           1038 LOAD_FAST                0 (inp)
+           1040 LOAD_CONST              44 (10)
+           1042 BINARY_SUBSCR
+           1044 BINARY_MULTIPLY
+           1046 BINARY_ADD
+           1048 LOAD_CONST              53 (719)
+           1050 COMPARE_OP               2 (==)
+           1052 EXTENDED_ARG             5
+           1054 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 25        1056 LOAD_CONST               3 (1)
+           1058 LOAD_FAST                0 (inp)
+           1060 LOAD_CONST               3 (1)
+           1062 BINARY_SUBSCR
+           1064 BINARY_MULTIPLY
+           1066 LOAD_CONST               7 (4)
+           1068 LOAD_FAST                0 (inp)
+           1070 LOAD_CONST               5 (20)
+           1072 BINARY_SUBSCR
+           1074 BINARY_MULTIPLY
+           1076 BINARY_SUBTRACT
+           1078 LOAD_CONST               1 (2)
+           1080 LOAD_FAST                0 (inp)
+           1082 LOAD_CONST              19 (39)
+           1084 BINARY_SUBSCR
+           1086 BINARY_MULTIPLY
+           1088 BINARY_SUBTRACT
+           1090 LOAD_CONST               7 (4)
+           1092 LOAD_FAST                0 (inp)
+           1094 LOAD_CONST              16 (30)
+           1096 BINARY_SUBSCR
+           1098 BINARY_MULTIPLY
+           1100 BINARY_ADD
+           1102 LOAD_CONST              10 (3)
+           1104 LOAD_FAST                0 (inp)
+           1106 LOAD_CONST               1 (2)
+           1108 BINARY_SUBSCR
+           1110 BINARY_MULTIPLY
+           1112 BINARY_SUBTRACT
+           1114 LOAD_CONST              54 (-25)
+           1116 COMPARE_OP               2 (==)
+           1118 EXTENDED_ARG             5
+           1120 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 26        1122 LOAD_CONST              10 (3)
+           1124 LOAD_FAST                0 (inp)
+           1126 LOAD_CONST               2 (33)
+           1128 BINARY_SUBSCR
+           1130 BINARY_MULTIPLY
+           1132 LOAD_CONST               1 (2)
+           1134 LOAD_FAST                0 (inp)
+           1136 LOAD_CONST              35 (7)
+           1138 BINARY_SUBSCR
+           1140 BINARY_MULTIPLY
+           1142 BINARY_SUBTRACT
+           1144 LOAD_CONST               7 (4)
+           1146 LOAD_FAST                0 (inp)
+           1148 LOAD_CONST              13 (23)
+           1150 BINARY_SUBSCR
+           1152 BINARY_MULTIPLY
+           1154 BINARY_SUBTRACT
+           1156 LOAD_CONST              10 (3)
+           1158 LOAD_FAST                0 (inp)
+           1160 LOAD_CONST              55 (32)
+           1162 BINARY_SUBSCR
+           1164 BINARY_MULTIPLY
+           1166 BINARY_SUBTRACT
+           1168 LOAD_CONST               7 (4)
+           1170 LOAD_FAST                0 (inp)
+           1172 LOAD_CONST              30 (37)
+           1174 BINARY_SUBSCR
+           1176 BINARY_MULTIPLY
+           1178 BINARY_SUBTRACT
+           1180 LOAD_CONST              56 (-1909)
+           1182 COMPARE_OP               2 (==)
+           1184 EXTENDED_ARG             5
+           1186 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 27        1188 LOAD_CONST               3 (1)
+           1190 LOAD_FAST                0 (inp)
+           1192 LOAD_CONST              37 (22)
+           1194 BINARY_SUBSCR
+           1196 BINARY_MULTIPLY
+           1198 LOAD_CONST              10 (3)
+           1200 LOAD_FAST                0 (inp)
+           1202 LOAD_CONST              33 (18)
+           1204 BINARY_SUBSCR
+           1206 BINARY_MULTIPLY
+           1208 BINARY_ADD
+           1210 LOAD_CONST               7 (4)
+           1212 LOAD_FAST                0 (inp)
+           1214 LOAD_CONST              16 (30)
+           1216 BINARY_SUBSCR
+           1218 BINARY_MULTIPLY
+           1220 BINARY_SUBTRACT
+           1222 LOAD_CONST               1 (2)
+           1224 LOAD_FAST                0 (inp)
+           1226 LOAD_CONST              57 (15)
+           1228 BINARY_SUBSCR
+           1230 BINARY_MULTIPLY
+           1232 BINARY_ADD
+           1234 LOAD_CONST               1 (2)
+           1236 LOAD_FAST                0 (inp)
+           1238 LOAD_CONST              15 (25)
+           1240 BINARY_SUBSCR
+           1242 BINARY_MULTIPLY
+           1244 BINARY_SUBTRACT
+           1246 LOAD_CONST              58 (-395)
+           1248 COMPARE_OP               2 (==)
+           1250 EXTENDED_ARG             5
+           1252 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 28        1254 LOAD_CONST               1 (2)
+           1256 LOAD_FAST                0 (inp)
+           1258 LOAD_CONST              34 (12)
+           1260 BINARY_SUBSCR
+           1262 BINARY_MULTIPLY
+           1264 LOAD_CONST               7 (4)
+           1266 LOAD_FAST                0 (inp)
+           1268 LOAD_CONST               8 (29)
+           1270 BINARY_SUBSCR
+           1272 BINARY_MULTIPLY
+           1274 BINARY_SUBTRACT
+           1276 LOAD_CONST               1 (2)
+           1278 LOAD_FAST                0 (inp)
+           1280 LOAD_CONST              35 (7)
+           1282 BINARY_SUBSCR
+           1284 BINARY_MULTIPLY
+           1286 BINARY_ADD
+           1288 LOAD_CONST               7 (4)
+           1290 LOAD_FAST                0 (inp)
+           1292 LOAD_CONST              13 (23)
+           1294 BINARY_SUBSCR
+           1296 BINARY_MULTIPLY
+           1298 BINARY_ADD
+           1300 LOAD_CONST               1 (2)
+           1302 LOAD_FAST                0 (inp)
+           1304 LOAD_CONST               7 (4)
+           1306 BINARY_SUBSCR
+           1308 BINARY_MULTIPLY
+           1310 BINARY_ADD
+           1312 LOAD_CONST              59 (1096)
+           1314 COMPARE_OP               2 (==)
+           1316 EXTENDED_ARG             5
+           1318 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 29        1320 LOAD_CONST               3 (1)
+           1322 LOAD_FAST                0 (inp)
+           1324 LOAD_CONST              23 (11)
+           1326 BINARY_SUBSCR
+           1328 BINARY_MULTIPLY
+           1330 LOAD_CONST               3 (1)
+           1332 LOAD_FAST                0 (inp)
+           1334 LOAD_CONST              30 (37)
+           1336 BINARY_SUBSCR
+           1338 BINARY_MULTIPLY
+           1340 BINARY_ADD
+           1342 LOAD_CONST               1 (2)
+           1344 LOAD_FAST                0 (inp)
+           1346 LOAD_CONST               8 (29)
+           1348 BINARY_SUBSCR
+           1350 BINARY_MULTIPLY
+           1352 BINARY_SUBTRACT
+           1354 LOAD_CONST               3 (1)
+           1356 LOAD_FAST                0 (inp)
+           1358 LOAD_CONST              24 (38)
+           1360 BINARY_SUBSCR
+           1362 BINARY_MULTIPLY
+           1364 BINARY_ADD
+           1366 LOAD_CONST               3 (1)
+           1368 LOAD_FAST                0 (inp)
+           1370 LOAD_CONST              13 (23)
+           1372 BINARY_SUBSCR
+           1374 BINARY_MULTIPLY
+           1376 BINARY_ADD
+           1378 LOAD_CONST              60 (460)
+           1380 COMPARE_OP               2 (==)
+           1382 EXTENDED_ARG             5
+           1384 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 30        1386 LOAD_CONST              10 (3)
+           1388 LOAD_FAST                0 (inp)
+           1390 LOAD_CONST              44 (10)
+           1392 BINARY_SUBSCR
+           1394 BINARY_MULTIPLY
+           1396 LOAD_CONST               3 (1)
+           1398 LOAD_FAST                0 (inp)
+           1400 LOAD_CONST              35 (7)
+           1402 BINARY_SUBSCR
+           1404 BINARY_MULTIPLY
+           1406 BINARY_SUBTRACT
+           1408 LOAD_CONST              10 (3)
+           1410 LOAD_FAST                0 (inp)
+           1412 LOAD_CONST               6 (26)
+           1414 BINARY_SUBSCR
+           1416 BINARY_MULTIPLY
+           1418 BINARY_SUBTRACT
+           1420 LOAD_CONST               7 (4)
+           1422 LOAD_FAST                0 (inp)
+           1424 LOAD_CONST              25 (24)
+           1426 BINARY_SUBSCR
+           1428 BINARY_MULTIPLY
+           1430 BINARY_SUBTRACT
+           1432 LOAD_CONST              10 (3)
+           1434 LOAD_FAST                0 (inp)
+           1436 LOAD_CONST              31 (34)
+           1438 BINARY_SUBSCR
+           1440 BINARY_MULTIPLY
+           1442 BINARY_ADD
+           1444 LOAD_CONST              61 (287)
+           1446 COMPARE_OP               2 (==)
+           1448 EXTENDED_ARG             5
+           1450 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 31        1452 LOAD_CONST               3 (1)
+           1454 LOAD_FAST                0 (inp)
+           1456 LOAD_CONST              62 (31)
+           1458 BINARY_SUBSCR
+           1460 BINARY_MULTIPLY
+           1462 LOAD_CONST               1 (2)
+           1464 LOAD_FAST                0 (inp)
+           1466 LOAD_CONST              22 (6)
+           1468 BINARY_SUBSCR
+           1470 BINARY_MULTIPLY
+           1472 BINARY_SUBTRACT
+           1474 LOAD_CONST               1 (2)
+           1476 LOAD_FAST                0 (inp)
+           1478 LOAD_CONST               3 (1)
+           1480 BINARY_SUBSCR
+           1482 BINARY_MULTIPLY
+           1484 BINARY_SUBTRACT
+           1486 LOAD_CONST              10 (3)
+           1488 LOAD_FAST                0 (inp)
+           1490 LOAD_CONST               4 (17)
+           1492 BINARY_SUBSCR
+           1494 BINARY_MULTIPLY
+           1496 BINARY_SUBTRACT
+           1498 LOAD_CONST               1 (2)
+           1500 LOAD_FAST                0 (inp)
+           1502 LOAD_CONST              11 (28)
+           1504 BINARY_SUBSCR
+           1506 BINARY_MULTIPLY
+           1508 BINARY_ADD
+           1510 LOAD_CONST              63 (-169)
+           1512 COMPARE_OP               2 (==)
+           1514 EXTENDED_ARG             5
+           1516 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 32        1518 LOAD_CONST               7 (4)
+           1520 LOAD_FAST                0 (inp)
+           1522 LOAD_CONST               6 (26)
+           1524 BINARY_SUBSCR
+           1526 BINARY_MULTIPLY
+           1528 LOAD_CONST               1 (2)
+           1530 LOAD_FAST                0 (inp)
+           1532 LOAD_CONST              22 (6)
+           1534 BINARY_SUBSCR
+           1536 BINARY_MULTIPLY
+           1538 BINARY_ADD
+           1540 LOAD_CONST               1 (2)
+           1542 LOAD_FAST                0 (inp)
+           1544 LOAD_CONST              19 (39)
+           1546 BINARY_SUBSCR
+           1548 BINARY_MULTIPLY
+           1550 BINARY_SUBTRACT
+           1552 LOAD_CONST               7 (4)
+           1554 LOAD_FAST                0 (inp)
+           1556 LOAD_CONST              24 (38)
+           1558 BINARY_SUBSCR
+           1560 BINARY_MULTIPLY
+           1562 BINARY_ADD
+           1564 LOAD_CONST               3 (1)
+           1566 LOAD_FAST                0 (inp)
+           1568 LOAD_CONST              10 (3)
+           1570 BINARY_SUBSCR
+           1572 BINARY_MULTIPLY
+           1574 BINARY_ADD
+           1576 LOAD_CONST              64 (1020)
+           1578 COMPARE_OP               2 (==)
+           1580 EXTENDED_ARG             5
+           1582 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 33        1584 LOAD_CONST               1 (2)
+           1586 LOAD_FAST                0 (inp)
+           1588 LOAD_CONST              55 (32)
+           1590 BINARY_SUBSCR
+           1592 BINARY_MULTIPLY
+           1594 LOAD_CONST               1 (2)
+           1596 LOAD_FAST                0 (inp)
+           1598 LOAD_CONST              12 (27)
+           1600 BINARY_SUBSCR
+           1602 BINARY_MULTIPLY
+           1604 BINARY_ADD
+           1606 LOAD_CONST               7 (4)
+           1608 LOAD_FAST                0 (inp)
+           1610 LOAD_CONST              16 (30)
+           1612 BINARY_SUBSCR
+           1614 BINARY_MULTIPLY
+           1616 BINARY_ADD
+           1618 LOAD_CONST               7 (4)
+           1620 LOAD_FAST                0 (inp)
+           1622 LOAD_CONST              22 (6)
+           1624 BINARY_SUBSCR
+           1626 BINARY_MULTIPLY
+           1628 BINARY_SUBTRACT
+           1630 LOAD_CONST              10 (3)
+           1632 LOAD_FAST                0 (inp)
+           1634 LOAD_CONST              11 (28)
+           1636 BINARY_SUBSCR
+           1638 BINARY_MULTIPLY
+           1640 BINARY_ADD
+           1642 LOAD_CONST              65 (1873)
+           1644 COMPARE_OP               2 (==)
+           1646 EXTENDED_ARG             5
+           1648 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 34        1650 LOAD_CONST               7 (4)
+           1652 LOAD_FAST                0 (inp)
+           1654 LOAD_CONST               5 (20)
+           1656 BINARY_SUBSCR
+           1658 BINARY_MULTIPLY
+           1660 LOAD_CONST               7 (4)
+           1662 LOAD_FAST                0 (inp)
+           1664 LOAD_CONST              22 (6)
+           1666 BINARY_SUBSCR
+           1668 BINARY_MULTIPLY
+           1670 BINARY_SUBTRACT
+           1672 LOAD_CONST               1 (2)
+           1674 LOAD_FAST                0 (inp)
+           1676 LOAD_CONST              25 (24)
+           1678 BINARY_SUBSCR
+           1680 BINARY_MULTIPLY
+           1682 BINARY_ADD
+           1684 LOAD_CONST               1 (2)
+           1686 LOAD_FAST                0 (inp)
+           1688 LOAD_CONST               8 (29)
+           1690 BINARY_SUBSCR
+           1692 BINARY_MULTIPLY
+           1694 BINARY_ADD
+           1696 LOAD_CONST               3 (1)
+           1698 LOAD_FAST                0 (inp)
+           1700 LOAD_CONST              17 (13)
+           1702 BINARY_SUBSCR
+           1704 BINARY_MULTIPLY
+           1706 BINARY_SUBTRACT
+           1708 LOAD_CONST              66 (-122)
+           1710 COMPARE_OP               2 (==)
+           1712 EXTENDED_ARG             5
+           1714 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 35        1716 LOAD_CONST               1 (2)
+           1718 LOAD_FAST                0 (inp)
+           1720 LOAD_CONST              41 (36)
+           1722 BINARY_SUBSCR
+           1724 BINARY_MULTIPLY
+           1726 LOAD_CONST              10 (3)
+           1728 LOAD_FAST                0 (inp)
+           1730 LOAD_CONST               4 (17)
+           1732 BINARY_SUBSCR
+           1734 BINARY_MULTIPLY
+           1736 BINARY_SUBTRACT
+           1738 LOAD_CONST               3 (1)
+           1740 LOAD_FAST                0 (inp)
+           1742 LOAD_CONST              17 (13)
+           1744 BINARY_SUBSCR
+           1746 BINARY_MULTIPLY
+           1748 BINARY_SUBTRACT
+           1750 LOAD_CONST               7 (4)
+           1752 LOAD_FAST                0 (inp)
+           1754 LOAD_CONST              30 (37)
+           1756 BINARY_SUBSCR
+           1758 BINARY_MULTIPLY
+           1760 BINARY_SUBTRACT
+           1762 LOAD_CONST               7 (4)
+           1764 LOAD_FAST                0 (inp)
+           1766 LOAD_CONST              42 (14)
+           1768 BINARY_SUBSCR
+           1770 BINARY_MULTIPLY
+           1772 BINARY_SUBTRACT
+           1774 LOAD_CONST              67 (-1648)
+           1776 COMPARE_OP               2 (==)
+           1778 EXTENDED_ARG             5
+           1780 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 36        1782 LOAD_CONST               7 (4)
+           1784 LOAD_FAST                0 (inp)
+           1786 LOAD_CONST              39 (16)
+           1788 BINARY_SUBSCR
+           1790 BINARY_MULTIPLY
+           1792 LOAD_CONST              10 (3)
+           1794 LOAD_FAST                0 (inp)
+           1796 LOAD_CONST              24 (38)
+           1798 BINARY_SUBSCR
+           1800 BINARY_MULTIPLY
+           1802 BINARY_SUBTRACT
+           1804 LOAD_CONST               1 (2)
+           1806 LOAD_FAST                0 (inp)
+           1808 LOAD_CONST              27 (8)
+           1810 BINARY_SUBSCR
+           1812 BINARY_MULTIPLY
+           1814 BINARY_ADD
+           1816 LOAD_CONST               1 (2)
+           1818 LOAD_FAST                0 (inp)
+           1820 LOAD_CONST              11 (28)
+           1822 BINARY_SUBSCR
+           1824 BINARY_MULTIPLY
+           1826 BINARY_SUBTRACT
+           1828 LOAD_CONST               7 (4)
+           1830 LOAD_FAST                0 (inp)
+           1832 LOAD_CONST              10 (3)
+           1834 BINARY_SUBSCR
+           1836 BINARY_MULTIPLY
+           1838 BINARY_SUBTRACT
+           1840 LOAD_CONST              68 (292)
+           1842 COMPARE_OP               2 (==)
+           1844 EXTENDED_ARG             5
+           1846 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 37        1848 LOAD_CONST               7 (4)
+           1850 LOAD_FAST                0 (inp)
+           1852 LOAD_CONST              23 (11)
+           1854 BINARY_SUBSCR
+           1856 BINARY_MULTIPLY
+           1858 LOAD_CONST               7 (4)
+           1860 LOAD_FAST                0 (inp)
+           1862 LOAD_CONST              62 (31)
+           1864 BINARY_SUBSCR
+           1866 BINARY_MULTIPLY
+           1868 BINARY_ADD
+           1870 LOAD_CONST               3 (1)
+           1872 LOAD_FAST                0 (inp)
+           1874 LOAD_CONST              45 (19)
+           1876 BINARY_SUBSCR
+           1878 BINARY_MULTIPLY
+           1880 BINARY_SUBTRACT
+           1882 LOAD_CONST               1 (2)
+           1884 LOAD_FAST                0 (inp)
+           1886 LOAD_CONST              42 (14)
+           1888 BINARY_SUBSCR
+           1890 BINARY_MULTIPLY
+           1892 BINARY_SUBTRACT
+           1894 LOAD_CONST               1 (2)
+           1896 LOAD_FAST                0 (inp)
+           1898 LOAD_CONST              37 (22)
+           1900 BINARY_SUBSCR
+           1902 BINARY_MULTIPLY
+           1904 BINARY_SUBTRACT
+           1906 LOAD_CONST              69 (-181)
+           1908 COMPARE_OP               2 (==)
+           1910 EXTENDED_ARG             5
+           1912 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 38        1914 LOAD_CONST               7 (4)
+           1916 LOAD_FAST                0 (inp)
+           1918 LOAD_CONST               8 (29)
+           1920 BINARY_SUBSCR
+           1922 BINARY_MULTIPLY
+           1924 LOAD_CONST              10 (3)
+           1926 LOAD_FAST                0 (inp)
+           1928 LOAD_CONST              39 (16)
+           1930 BINARY_SUBSCR
+           1932 BINARY_MULTIPLY
+           1934 BINARY_ADD
+           1936 LOAD_CONST              10 (3)
+           1938 LOAD_FAST                0 (inp)
+           1940 LOAD_CONST               4 (17)
+           1942 BINARY_SUBSCR
+           1944 BINARY_MULTIPLY
+           1946 BINARY_SUBTRACT
+           1948 LOAD_CONST               1 (2)
+           1950 LOAD_FAST                0 (inp)
+           1952 LOAD_CONST              57 (15)
+           1954 BINARY_SUBSCR
+           1956 BINARY_MULTIPLY
+           1958 BINARY_SUBTRACT
+           1960 LOAD_CONST               1 (2)
+           1962 LOAD_FAST                0 (inp)
+           1964 LOAD_CONST              20 (21)
+           1966 BINARY_SUBSCR
+           1968 BINARY_MULTIPLY
+           1970 BINARY_ADD
+           1972 LOAD_CONST              70 (494)
+           1974 COMPARE_OP               2 (==)
+           1976 EXTENDED_ARG             5
+           1978 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 39        1980 LOAD_CONST               7 (4)
+           1982 LOAD_FAST                0 (inp)
+           1984 LOAD_CONST              44 (10)
+           1986 BINARY_SUBSCR
+           1988 BINARY_MULTIPLY
+           1990 LOAD_CONST               1 (2)
+           1992 LOAD_FAST                0 (inp)
+           1994 LOAD_CONST              41 (36)
+           1996 BINARY_SUBSCR
+           1998 BINARY_MULTIPLY
+           2000 BINARY_ADD
+           2002 LOAD_CONST              10 (3)
+           2004 LOAD_FAST                0 (inp)
+           2006 LOAD_CONST              31 (34)
+           2008 BINARY_SUBSCR
+           2010 BINARY_MULTIPLY
+           2012 BINARY_ADD
+           2014 LOAD_CONST              10 (3)
+           2016 LOAD_FAST                0 (inp)
+           2018 LOAD_CONST              45 (19)
+           2020 BINARY_SUBSCR
+           2022 BINARY_MULTIPLY
+           2024 BINARY_ADD
+           2026 LOAD_CONST              10 (3)
+           2028 LOAD_FAST                0 (inp)
+           2030 LOAD_CONST               3 (1)
+           2032 BINARY_SUBSCR
+           2034 BINARY_MULTIPLY
+           2036 BINARY_SUBTRACT
+           2038 LOAD_CONST              71 (1200)
+           2040 COMPARE_OP               2 (==)
+           2042 EXTENDED_ARG             5
+           2044 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 40        2046 LOAD_CONST               3 (1)
+           2048 LOAD_FAST                0 (inp)
+           2050 LOAD_CONST              52 (35)
+           2052 BINARY_SUBSCR
+           2054 BINARY_MULTIPLY
+           2056 LOAD_CONST               3 (1)
+           2058 LOAD_FAST                0 (inp)
+           2060 LOAD_CONST              62 (31)
+           2062 BINARY_SUBSCR
+           2064 BINARY_MULTIPLY
+           2066 BINARY_SUBTRACT
+           2068 LOAD_CONST              10 (3)
+           2070 LOAD_FAST                0 (inp)
+           2072 LOAD_CONST              44 (10)
+           2074 BINARY_SUBSCR
+           2076 BINARY_MULTIPLY
+           2078 BINARY_SUBTRACT
+           2080 LOAD_CONST               1 (2)
+           2082 LOAD_FAST                0 (inp)
+           2084 LOAD_CONST              19 (39)
+           2086 BINARY_SUBSCR
+           2088 BINARY_MULTIPLY
+           2090 BINARY_ADD
+           2092 LOAD_CONST               3 (1)
+           2094 LOAD_FAST                0 (inp)
+           2096 LOAD_CONST               2 (33)
+           2098 BINARY_SUBSCR
+           2100 BINARY_MULTIPLY
+           2102 BINARY_SUBTRACT
+           2104 LOAD_CONST              72 (-7)
+           2106 COMPARE_OP               2 (==)
+           2108 EXTENDED_ARG             5
+           2110 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 41        2112 LOAD_CONST               7 (4)
+           2114 LOAD_FAST                0 (inp)
+           2116 LOAD_CONST               4 (17)
+           2118 BINARY_SUBSCR
+           2120 BINARY_MULTIPLY
+           2122 LOAD_CONST               3 (1)
+           2124 LOAD_FAST                0 (inp)
+           2126 LOAD_CONST              45 (19)
+           2128 BINARY_SUBSCR
+           2130 BINARY_MULTIPLY
+           2132 BINARY_ADD
+           2134 LOAD_CONST               3 (1)
+           2136 LOAD_FAST                0 (inp)
+           2138 LOAD_CONST              41 (36)
+           2140 BINARY_SUBSCR
+           2142 BINARY_MULTIPLY
+           2144 BINARY_ADD
+           2146 LOAD_CONST               1 (2)
+           2148 LOAD_FAST                0 (inp)
+           2150 LOAD_CONST              17 (13)
+           2152 BINARY_SUBSCR
+           2154 BINARY_MULTIPLY
+           2156 BINARY_SUBTRACT
+           2158 LOAD_CONST               7 (4)
+           2160 LOAD_FAST                0 (inp)
+           2162 LOAD_CONST              39 (16)
+           2164 BINARY_SUBSCR
+           2166 BINARY_MULTIPLY
+           2168 BINARY_SUBTRACT
+           2170 LOAD_CONST              73 (-531)
+           2172 COMPARE_OP               2 (==)
+           2174 EXTENDED_ARG             5
+           2176 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 42        2178 LOAD_CONST              10 (3)
+           2180 LOAD_FAST                0 (inp)
+           2182 LOAD_CONST              52 (35)
+           2184 BINARY_SUBSCR
+           2186 BINARY_MULTIPLY
+           2188 LOAD_CONST               7 (4)
+           2190 LOAD_FAST                0 (inp)
+           2192 LOAD_CONST              42 (14)
+           2194 BINARY_SUBSCR
+           2196 BINARY_MULTIPLY
+           2198 BINARY_SUBTRACT
+           2200 LOAD_CONST               1 (2)
+           2202 LOAD_FAST                0 (inp)
+           2204 LOAD_CONST               7 (4)
+           2206 BINARY_SUBSCR
+           2208 BINARY_MULTIPLY
+           2210 BINARY_ADD
+           2212 LOAD_CONST               7 (4)
+           2214 LOAD_FAST                0 (inp)
+           2216 LOAD_CONST              45 (19)
+           2218 BINARY_SUBSCR
+           2220 BINARY_MULTIPLY
+           2222 BINARY_SUBTRACT
+           2224 LOAD_CONST               3 (1)
+           2226 LOAD_FAST                0 (inp)
+           2228 LOAD_CONST              10 (3)
+           2230 BINARY_SUBSCR
+           2232 BINARY_MULTIPLY
+           2234 BINARY_SUBTRACT
+           2236 LOAD_CONST              74 (-370)
+           2238 COMPARE_OP               2 (==)
+           2240 EXTENDED_ARG             5
+           2242 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 43        2244 LOAD_CONST               3 (1)
+           2246 LOAD_FAST                0 (inp)
+           2248 LOAD_CONST              17 (13)
+           2250 BINARY_SUBSCR
+           2252 BINARY_MULTIPLY
+           2254 LOAD_CONST               7 (4)
+           2256 LOAD_FAST                0 (inp)
+           2258 LOAD_CONST              47 (5)
+           2260 BINARY_SUBSCR
+           2262 BINARY_MULTIPLY
+           2264 BINARY_SUBTRACT
+           2266 LOAD_CONST              10 (3)
+           2268 LOAD_FAST                0 (inp)
+           2270 LOAD_CONST              57 (15)
+           2272 BINARY_SUBSCR
+           2274 BINARY_MULTIPLY
+           2276 BINARY_SUBTRACT
+           2278 LOAD_CONST               7 (4)
+           2280 LOAD_FAST                0 (inp)
+           2282 LOAD_CONST              20 (21)
+           2284 BINARY_SUBSCR
+           2286 BINARY_MULTIPLY
+           2288 BINARY_SUBTRACT
+           2290 LOAD_CONST               3 (1)
+           2292 LOAD_FAST                0 (inp)
+           2294 LOAD_CONST              33 (18)
+           2296 BINARY_SUBSCR
+           2298 BINARY_MULTIPLY
+           2300 BINARY_ADD
+           2302 LOAD_CONST              75 (-1364)
+           2304 COMPARE_OP               2 (==)
+           2306 EXTENDED_ARG             5
+           2308 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 44        2310 LOAD_CONST              10 (3)
+           2312 LOAD_FAST                0 (inp)
+           2314 LOAD_CONST              47 (5)
+           2316 BINARY_SUBSCR
+           2318 BINARY_MULTIPLY
+           2320 LOAD_CONST               3 (1)
+           2322 LOAD_FAST                0 (inp)
+           2324 LOAD_CONST               7 (4)
+           2326 BINARY_SUBSCR
+           2328 BINARY_MULTIPLY
+           2330 BINARY_ADD
+           2332 LOAD_CONST               3 (1)
+           2334 LOAD_FAST                0 (inp)
+           2336 LOAD_CONST              57 (15)
+           2338 BINARY_SUBSCR
+           2340 BINARY_MULTIPLY
+           2342 BINARY_SUBTRACT
+           2344 LOAD_CONST               7 (4)
+           2346 LOAD_FAST                0 (inp)
+           2348 LOAD_CONST               2 (33)
+           2350 BINARY_SUBSCR
+           2352 BINARY_MULTIPLY
+           2354 BINARY_SUBTRACT
+           2356 LOAD_CONST               7 (4)
+           2358 LOAD_FAST                0 (inp)
+           2360 LOAD_CONST              34 (12)
+           2362 BINARY_SUBSCR
+           2364 BINARY_MULTIPLY
+           2366 BINARY_SUBTRACT
+           2368 LOAD_CONST              76 (-259)
+           2370 COMPARE_OP               2 (==)
+           2372 EXTENDED_ARG             5
+           2374 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 45        2376 LOAD_CONST               3 (1)
+           2378 LOAD_FAST                0 (inp)
+           2380 LOAD_CONST              33 (18)
+           2382 BINARY_SUBSCR
+           2384 BINARY_MULTIPLY
+           2386 LOAD_CONST              10 (3)
+           2388 LOAD_FAST                0 (inp)
+           2390 LOAD_CONST              55 (32)
+           2392 BINARY_SUBSCR
+           2394 BINARY_MULTIPLY
+           2396 BINARY_ADD
+           2398 LOAD_CONST              10 (3)
+           2400 LOAD_FAST                0 (inp)
+           2402 LOAD_CONST              23 (11)
+           2404 BINARY_SUBSCR
+           2406 BINARY_MULTIPLY
+           2408 BINARY_ADD
+           2410 LOAD_CONST               7 (4)
+           2412 LOAD_FAST                0 (inp)
+           2414 LOAD_CONST              57 (15)
+           2416 BINARY_SUBSCR
+           2418 BINARY_MULTIPLY
+           2420 BINARY_SUBTRACT
+           2422 LOAD_CONST               7 (4)
+           2424 LOAD_FAST                0 (inp)
+           2426 LOAD_CONST              52 (35)
+           2428 BINARY_SUBSCR
+           2430 BINARY_MULTIPLY
+           2432 BINARY_SUBTRACT
+           2434 LOAD_CONST              77 (-1166)
+           2436 COMPARE_OP               2 (==)
+           2438 EXTENDED_ARG             5
+           2440 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 46        2442 LOAD_CONST               3 (1)
+           2444 LOAD_FAST                0 (inp)
+           2446 LOAD_CONST              29 (9)
+           2448 BINARY_SUBSCR
+           2450 BINARY_MULTIPLY
+           2452 LOAD_CONST               1 (2)
+           2454 LOAD_FAST                0 (inp)
+           2456 LOAD_CONST              42 (14)
+           2458 BINARY_SUBSCR
+           2460 BINARY_MULTIPLY
+           2462 BINARY_ADD
+           2464 LOAD_CONST               7 (4)
+           2466 LOAD_FAST                0 (inp)
+           2468 LOAD_CONST              37 (22)
+           2470 BINARY_SUBSCR
+           2472 BINARY_MULTIPLY
+           2474 BINARY_ADD
+           2476 LOAD_CONST               1 (2)
+           2478 LOAD_FAST                0 (inp)
+           2480 LOAD_CONST              52 (35)
+           2482 BINARY_SUBSCR
+           2484 BINARY_MULTIPLY
+           2486 BINARY_SUBTRACT
+           2488 LOAD_CONST               1 (2)
+           2490 LOAD_FAST                0 (inp)
+           2492 LOAD_CONST              20 (21)
+           2494 BINARY_SUBSCR
+           2496 BINARY_MULTIPLY
+           2498 BINARY_ADD
+           2500 LOAD_CONST              78 (876)
+           2502 COMPARE_OP               2 (==)
+           2504 EXTENDED_ARG             5
+           2506 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 47        2508 LOAD_CONST               1 (2)
+           2510 LOAD_FAST                0 (inp)
+           2512 LOAD_CONST              24 (38)
+           2514 BINARY_SUBSCR
+           2516 BINARY_MULTIPLY
+           2518 LOAD_CONST               7 (4)
+           2520 LOAD_FAST                0 (inp)
+           2522 LOAD_CONST              62 (31)
+           2524 BINARY_SUBSCR
+           2526 BINARY_MULTIPLY
+           2528 BINARY_SUBTRACT
+           2530 LOAD_CONST               1 (2)
+           2532 LOAD_FAST                0 (inp)
+           2534 LOAD_CONST              34 (12)
+           2536 BINARY_SUBSCR
+           2538 BINARY_MULTIPLY
+           2540 BINARY_ADD
+           2542 LOAD_CONST               3 (1)
+           2544 LOAD_FAST                0 (inp)
+           2546 LOAD_CONST              29 (9)
+           2548 BINARY_SUBSCR
+           2550 BINARY_MULTIPLY
+           2552 BINARY_SUBTRACT
+           2554 LOAD_CONST               3 (1)
+           2556 LOAD_FAST                0 (inp)
+           2558 LOAD_CONST              55 (32)
+           2560 BINARY_SUBSCR
+           2562 BINARY_MULTIPLY
+           2564 BINARY_SUBTRACT
+           2566 LOAD_CONST              79 (-337)
+           2568 COMPARE_OP               2 (==)
+           2570 EXTENDED_ARG             5
+           2572 POP_JUMP_IF_FALSE     1322 (to 2644)
+
+ 48        2574 LOAD_CONST              10 (3)
+           2576 LOAD_FAST                0 (inp)
+           2578 LOAD_CONST              10 (3)
+           2580 BINARY_SUBSCR
+           2582 BINARY_MULTIPLY
+           2584 LOAD_CONST               3 (1)
+           2586 LOAD_FAST                0 (inp)
+           2588 LOAD_CONST              55 (32)
+           2590 BINARY_SUBSCR
+           2592 BINARY_MULTIPLY
+           2594 BINARY_ADD
+           2596 LOAD_CONST              10 (3)
+           2598 LOAD_FAST                0 (inp)
+           2600 LOAD_CONST              34 (12)
+           2602 BINARY_SUBSCR
+           2604 BINARY_MULTIPLY
+           2606 BINARY_SUBTRACT
+           2608 LOAD_CONST               3 (1)
+           2610 LOAD_FAST                0 (inp)
+           2612 LOAD_CONST              62 (31)
+           2614 BINARY_SUBSCR
+           2616 BINARY_MULTIPLY
+           2618 BINARY_SUBTRACT
+           2620 LOAD_CONST               1 (2)
+           2622 LOAD_FAST                0 (inp)
+           2624 LOAD_CONST              29 (9)
+           2626 BINARY_SUBSCR
+           2628 BINARY_MULTIPLY
+           2630 BINARY_SUBTRACT
+           2632 LOAD_CONST              80 (-77)
+           2634 COMPARE_OP               2 (==)
+           2636 EXTENDED_ARG             5
+           2638 POP_JUMP_IF_FALSE     1322 (to 2644)

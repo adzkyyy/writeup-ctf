@@ -1,0 +1,14 @@
+version: "3"
+services:
+  app:
+    build: ./app
+    ports:
+      - 16033:80
+    environment:
+      - FLAG=hacktoday{REDACTED}
+
+  admin:
+    build: ./admin
+    privileged: true
+    ports:
+      - 16034:8000

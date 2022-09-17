@@ -1,0 +1,26 @@
+version: '3'
+services:
+  curl:
+    build:
+      context: .
+      dockerfile: ./Web/curl/Dockerfile
+    container_name: curl
+    ports:
+      - "8002:8000"
+    volumes:
+      - "./Web/curl:/app"
+    depends_on:
+      - redis-hub
+    networks:
+      - curl-net
+
+  redis-hub:
+    build:
+      context: .
+      dockerfile: ./Web/curl/redis/Dockerfile
+    restart: always
+    networks:
+      - curl-net
+
+networks:
+  curl-net:
