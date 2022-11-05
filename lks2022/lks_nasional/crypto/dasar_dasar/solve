@@ -1,0 +1,3 @@
+base45 -> base32 -> base64 -> base32 -> base64 -> rot13
+
+FLAG : LKSN{play_fun_with_many_base_and_rot13}

